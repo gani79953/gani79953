@@ -1,0 +1,7 @@
+mani,7569811798,ganesh@.com
+jayanth,7569811788,jaya@.yahoo
+manoj,7000000000,mani@.mayaho
+ganesh,9000000000,kiran@.com
+nani,7569000000,nani@.com
+hareesh,7995323123,hareesh@.com
+jaya,7000010123,jaya@.com
